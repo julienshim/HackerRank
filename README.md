@@ -19,6 +19,7 @@ A repository of personal HackerRank solutions.
 - [Time Conversion](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Time%20Conversion.js)
 - [Sock Merchant](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Sock%20Merchant.js)
 - [Counting Valleys](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Counting%20Valleys.js)
+- [Repeated String](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Repeated%20String.js)
 
 ### Python
 
