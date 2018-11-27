@@ -54,4 +54,4 @@ function hourglassSum(arr) {
   return maxSum;
 }
 
-hourglassSum(array2d);
+hourglassSum(array2C);

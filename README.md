@@ -20,6 +20,8 @@ A repository of personal HackerRank solutions.
 - [Sock Merchant](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Sock%20Merchant.js)
 - [Counting Valleys](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Counting%20Valleys.js)
 - [Repeated String](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Repeated%20String.js)
+- [Jumping on the Clouds](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Jumping%20on%20the%20Clouds.js)
+- [2D Array - DS](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/2D%20Array%20-%20-DS.js)
 
 ### Python
 
