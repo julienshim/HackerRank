@@ -3,7 +3,7 @@ function Person(initialAge) {
   let age = initialAge;
   if (age < 0) {
     console.log("Age is not valid, setting age to 0.");
-    this.age = 0;
+    age = 0;
   }
   this.amIOld = function() {
     // Do some computations in here and print out the correct statement to the console
