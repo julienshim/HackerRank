@@ -4,6 +4,10 @@ A repository of personal HackerRank solutions.
 
 ## Table of Contents
 
+### Series
+
+- [30 Days Of Code](https://github.com/julienshim/HackerRank-Playground/tree/master/30-Days-Of-Code)
+
 ### JavaScript
 
 - [A Very Big Sum](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/A%20Very%20Big%20Sum.js)
