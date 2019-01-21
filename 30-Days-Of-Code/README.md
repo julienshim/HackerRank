@@ -4,7 +4,7 @@ Solutions for 30 Days Of Code (On-Going)
 
 ## Table of Contents
 
-###JavaScript
+### JavaScript
 
 * [Day 0: Hellow, World](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%200:%20Hello%2C%20World.js)
 * [Day 1: Data Types](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%201:%20Data%20Types.js)
@@ -20,7 +20,7 @@ Solutions for 30 Days Of Code (On-Going)
 * [Day 11: 2D Arrays](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2011:%202D%20Arrays.js)
 * [Day 12: Inheritance](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2012:%20Inheritance.js)
 
-###Python
+### Python
 
 * [Day 0: Hello, World](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%200:%20Hello%2C%20World.py)
 * [Day 1: Data Types](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%201:%20Data%20Types.py)
@@ -30,7 +30,7 @@ Solutions for 30 Days Of Code (On-Going)
 * [Day 5: Loops](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%205:%20Loops.py)
 * [Day 6: Let's Review](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%206:%20Let's%20Review.py)
 
-###Swift
+### Swift
 
 * [Day 0: Hello, World](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%200:%20Hello%2C%20World.swift)
 * [Day 1: Data Types](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%201:%20Data%20Types.swift)
