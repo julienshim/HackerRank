@@ -1,0 +1,11 @@
+function main() {
+    const S = readLine();
+
+    try {
+        const N = S;
+        Number(N) || e();
+        console.log(N);
+    } catch (err) {
+        console.log('Bad String');
+    }
+}
