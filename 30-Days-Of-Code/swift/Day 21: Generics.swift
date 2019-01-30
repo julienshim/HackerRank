@@ -1,5 +1,5 @@
-    func printArray(array: [T]){
-        for i in array {
-            print(i)
-        }
+func printArray(array: [T]){
+    for i in array {
+        print(i)
     }
+}
