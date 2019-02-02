@@ -43,6 +43,19 @@ Solutions for 30 Days Of Code (On-Going)
 - [Day 4: Class vs Instance](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%204:%20Class%20vs%20Instance.py)
 - [Day 5: Loops](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%205:%20Loops.py)
 - [Day 6: Let's Review](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%206:%20Let's%20Review.py)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- [Day 19: Interfaces](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2019:%20Interfaces.py)
 
 ### Swift
 
