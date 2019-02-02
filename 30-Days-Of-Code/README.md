@@ -70,11 +70,11 @@ Solutions for 30 Days Of Code (On-Going)
 -
 -
 -
-- [Day 14](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2014:%20Scope.swift)
+- [Day 14: Scope](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2014:%20Scope.swift)
 -
 -
 -
 -
 -
 -
-- [Day 21](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2021:%20Generics.swift)
+- [Day 21: Generics](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2021:%20Generics.swift)
