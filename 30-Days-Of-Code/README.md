@@ -31,6 +31,7 @@ Solutions for 30 Days Of Code (On-Going)
 - [Day 22: Binary Search Trees](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2022:%20Binary%20Search%20Trees.js)
 - [Day 23: BST Level-Order Traversal](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2023:%20BST%20Level-Order%20Traversal.js)
 - [Day 24: More Linked Lists](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2024:%20More%20Linked%20Lists.js)
+- [Day 25: Running Time and Complexity](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2025:%20Running%20Time%20and%20Complexity.js)
 
 ### Python
 
