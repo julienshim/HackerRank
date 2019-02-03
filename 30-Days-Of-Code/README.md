@@ -30,6 +30,7 @@ Solutions for 30 Days Of Code (On-Going)
 - Day 21: Generics (Not Available) - See Swift version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2021:%20Generics.swift)
 - [Day 22: Binary Search Trees](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2022:%20Binary%20Search%20Trees.js)
 - [Day 23: BST Level-Order Traversal](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2023:%20BST%20Level-Order%20Traversal.js)
+- [Day 24: More Linked Lists](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2024:%20More%20Linked%20Lists.js)
 
 ### Python
 
