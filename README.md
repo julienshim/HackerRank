@@ -7,6 +7,7 @@ A repository of personal HackerRank solutions.
 ### Series
 
 - [30 Days Of Code](https://github.com/julienshim/HackerRank-Playground/tree/master/30-Days-Of-Code)
+- [Interview Preparation Kit](https://github.com/julienshim/HackerRank-Playground/tree/master/Interview%20Preparation%20Kit)
 
 ### JavaScript
 
