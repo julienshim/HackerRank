@@ -33,6 +33,7 @@ Solutions for 30 Days Of Code (On-Going)
 - [Day 24: More Linked Lists](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2024:%20More%20Linked%20Lists.js)
 - [Day 25: Running Time and Complexity](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2025:%20Running%20Time%20and%20Complexity.js)
 - [Day 26: Nested Logic](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2026:%20Nested%20Logic.js)
+- Day 27: Testing (Not Available) - See Python version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2027:%20Testing.py)
 
 ### Python
 
@@ -56,6 +57,14 @@ Solutions for 30 Days Of Code (On-Going)
 -
 -
 - [Day 19: Interfaces](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2019:%20Interfaces.py)
+-
+-
+-
+-
+-
+-
+-
+- [Day 27: Testing](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2027:%20Testing.py)
 
 ### Swift
 
