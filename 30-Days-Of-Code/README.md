@@ -35,6 +35,7 @@ Solutions for 30 Days Of Code (On-Going)
 - [Day 26: Nested Logic](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2026:%20Nested%20Logic.js)
 - Day 27: Testing (Not Available) - See Python version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2027:%20Testing.py)
 - [Day 28: RegEx, Patterns, and Intro to Databases](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2028:%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.js)
+- [Day 29: Bitwise AND (Final)](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2029:%20Bitwise%20AND.js)
 
 ### Python
 
