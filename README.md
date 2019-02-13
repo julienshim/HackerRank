@@ -27,6 +27,7 @@ A repository of personal HackerRank solutions.
 - [Repeated String](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Repeated%20String.js)
 - [Jumping on the Clouds](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Jumping%20on%20the%20Clouds.js)
 - [2D Array - DS](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/2D%20Array%20-%20DS.js)
+- [Arrays - DS](https://github.com/julienshim/HackerRank-Playground/blob/master/JavaScript/Arrays%20-%20DS.js)
 
 ### Python
 
