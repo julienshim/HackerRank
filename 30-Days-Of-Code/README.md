@@ -4,91 +4,33 @@ Solutions for 30 Days Of Code (On-Going)
 
 ## Table of Contents
 
-### JavaScript
-
-- [Day 0: Hellow, World](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%200:%20Hello%2C%20World.js)
-- [Day 1: Data Types](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%201:%20Data%20Types.js)
-- [Day 2: Operators](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%202:%20Operators.js)
-- [Day 3: Intro to Conditional Statements](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%203:%20Intro%20to%20Conditional%20Statements.js)
-- [Day 4: Class vs Instance](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%204:%20Class%20vs%20Instance.js)
-- [Day 5: Loops](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%205:%20Loops.js)
-- [Day 6: Let's Review](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%206:%20Let's%20Review.js)
-- [Day 7: Arrays](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%207:%20Arrays.js)
-- [Day 8: Dictionaries and Maps](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%208:%20Dictionaries%20and%20Maps.js)
-- [Day 9: Recursion](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%209:%20Recursion%203.js)
-- [Day 10: Binary Numbers](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2010:%20Binary%20Numbers.js)
-- [Day 11: 2D Arrays](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2011:%202D%20Arrays.js)
-- [Day 12: Inheritance](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2012:%20Inheritance.js)
-- [Day 13: Abstract Classes](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2013:%20Abstract%20Classes.js)
-- Day 14: Scope (Not Available) - See Swift version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2014:%20Scope.swift)
-- [Day 15: Linked List](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2015:%20Linked%20List.js)
-- [Day 16: Exceptions - String to Integer](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
-- [Day 17: More Exceptions](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2017:%20More%20Exceptions.js)
-- [Day 18: Queues and Stacks](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2018:%20Queues%20and%20Stacks.js)
-- Day 19: Interfaces (Not Available) - See Python 3 version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2019:%20Interfaces.py)
-- [Day 20: Sorting](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2020:%20Sorting.js)
-- Day 21: Generics (Not Available) - See Swift version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2021:%20Generics.swift)
-- [Day 22: Binary Search Trees](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2022:%20Binary%20Search%20Trees.js)
-- [Day 23: BST Level-Order Traversal](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2023:%20BST%20Level-Order%20Traversal.js)
-- [Day 24: More Linked Lists](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2024:%20More%20Linked%20Lists.js)
-- [Day 25: Running Time and Complexity](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2025:%20Running%20Time%20and%20Complexity.js)
-- [Day 26: Nested Logic](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2026:%20Nested%20Logic.js)
-- Day 27: Testing (Not Available) - See Python version [here](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2027:%20Testing.py)
-- [Day 28: RegEx, Patterns, and Intro to Databases](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2028:%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.js)
-- [Day 29: Bitwise AND - _FINAL_](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/javascript/Day%2029:%20Bitwise%20AND.js)
-
-### Python
-
-- [Day 0: Hello, World](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%200:%20Hello%2C%20World.py)
-- [Day 1: Data Types](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%201:%20Data%20Types.py)
-- [Day 2: Operators](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%202:%20Operators.py)
-- [Day 3: Intro to Conditional Statements](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%203:%20Intro%20to%20Conditional%20Statements.py)
-- [Day 4: Class vs Instance](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%204:%20Class%20vs%20Instance.py)
-- [Day 5: Loops](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%205:%20Loops.py)
-- [Day 6: Let's Review](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%206:%20Let's%20Review.py)
--
--
--
--
--
--
--
--
--
--
--
--
-- [Day 19: Interfaces](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2019:%20Interfaces.py)
--
--
--
--
--
--
--
-- [Day 27: Testing](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/python/Day%2027:%20Testing.py)
-
-### Swift
-
-- [Day 0: Hello, World](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%200:%20Hello%2C%20World.swift)
-- [Day 1: Data Types](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%201:%20Data%20Types.swift)
-- [Day 2: Operators](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%202:%20Operators.swift)
-- [Day 3: Intro to Conditional Statements](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%203%20:%20Intro%20to%20Conditional%20Statements.swift)
-- [Day 4: Class vs Instance](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%204:%20Class%20vs%20Instance.swift)
-- [Day 5: Loops](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%205:%20Loops.swift)
--
--
--
--
--
--
--
--
-- [Day 14: Scope](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2014:%20Scope.swift)
--
--
--
--
--
--
-- [Day 21: Generics](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/swift/Day%2021:%20Generics.swift)
+- Day 0: Hellow, World [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Javascript/Day%200:%20Hello%2C%20World.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%200:%20Hello%2C%20World.py) [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%200:%20Hello%2C%20World.swift)
+- Day 1: Data Types [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Javascript/Day%201:%20Data%20Types.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%201:%20Data%20Types.py) [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%201:%20Data%20Types.swift)
+- Day 2: Operators [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%202:%20Operators.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%202:%20Operators.py) [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%202:%20Operators.swift)
+- Day 3: Intro to Conditional Statements [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%203:%20Intro%20to%20Conditional%20Statements.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%203:%20Intro%20to%20Conditional%20Statements.py) [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%203%20:%20Intro%20to%20Conditional%20Statements.swift)
+- Day 4: Class vs Instance [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%204:%20Class%20vs%20Instance.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%204:%20Class%20vs%20Instance.py) [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%204:%20Class%20vs%20Instance.swift)
+- Day 5: Loops [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%205:%20Loops.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%205:%20Loops.py) [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%205:%20Loops.swift)
+- Day 6: Let's Review [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%206:%20Let's%20Review.js) [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%206:%20Let's%20Review.py)
+- Day 7: Arrays [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%207:%20Arrays.js)
+- Day 8: Dictionaries and Maps [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%208:%20Dictionaries%20and%20Maps.js)
+- Day 9: Recursion [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%209:%20Recursion%203.js)
+- Day 10: Binary Numbers [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2010:%20Binary%20Numbers.js)
+- Day 11: 2D Arrays [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2011:%202D%20Arrays.js)
+- Day 12: Inheritance [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2012:%20Inheritance.js)
+- Day 13: Abstract Classes [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2013:%20Abstract%20Classes.js)
+- Day 14: Scope [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%2014:%20Scope.swift)
+- Day 15: Linked List [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2015:%20Linked%20List.js)
+- Day 16: Exceptions - String to Integer [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
+- Day 17: More Exceptions [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2017:%20More%20Exceptions.js)
+- Day 18: Queues and Stacks [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2018:%20Queues%20and%20Stacks.js)
+- Day 19: Interfaces [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%2019:%20Interfaces.py)
+- Day 20: Sorting [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2020:%20Sorting.js)
+- Day 21: Generics [[.swift]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Swift/Day%2021:%20Generics.swift)
+- Day 22: Binary Search Trees [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2022:%20Binary%20Search%20Trees.js)
+- Day 23: BST Level-Order Traversal [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2023:%20BST%20Level-Order%20Traversal.js)
+- Day 24: More Linked Lists [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2024:%20More%20Linked%20Lists.js)
+- Day 25: Running Time and Complexity [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2025:%20Running%20Time%20and%20Complexity.js)
+- Day 26: Nested Logic [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2026:%20Nested%20Logic.js)
+- Day 27: Testing [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/Python/Day%2027:%20Testing.py)
+- Day 28: RegEx, Patterns, and Intro to Databases [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2028:%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.js)
+- Day 29: Bitwise AND [[.js]](https://github.com/julienshim/HackerRank-Playground/blob/master/30-Days-Of-Code/JavaScript/Day%2029:%20Bitwise%20AND.js)
