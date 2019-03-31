@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-### Javascript
+### Arrays
 
-### Python
-
-### Swift
+- 2D Array - DS
+- Arrays: Left Rotation
+- Minimum Swaps 2
+- New Year Chaos
