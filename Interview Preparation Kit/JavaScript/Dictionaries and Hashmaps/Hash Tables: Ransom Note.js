@@ -3,6 +3,7 @@ function checkMagazine(magazine, note) {
     note.forEach(function (word) {
         if (!magazine.includes(word)) {
             check = 'No';
+            return;
         }
         magazine.splice(magazine.indexOf(word), 1)
     })
