@@ -3,6 +3,7 @@
 ### Basic Data Types
 
 - Find the Runner-Up Score! [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score.py)
+- Finding the percentage [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/Python/Basic%20Data%20Types/Finding%20the%20percentage.py)
 - List Comprehensions [[.py]](https://github.com/julienshim/HackerRank-Playground/blob/master/Python/Basic%20Data%20Types/List%20Comprehensions.py)
 
 ### Introduction
