@@ -13,8 +13,11 @@ A repository of personal HackerRank solutions.
 
 ### Recommended by Email
 
-
 - Find the Median [&#128279;](https://www.hackerrank.com/challenges/find-the-median/problem)
   [[.js]](https://github.com/julienshim/hackerrank-playground/blob/master/Algorithms/Strings/Find%20the%20Median.js)
 - Game of Thrones - I [&#128279;](https://www.hackerrank.com/challenges/game-of-thrones/problem)
   [[.js]](https://github.com/julienshim/hackerrank-playground/blob/master/Algorithms/Strings/Game%20of%20Thrones%20-%20I.js)
+- Let's Echo [&#128279;](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)
+  [[.sh]](https://github.com/julienshim/hackerrank-playground/blob/master/Linux%20Shell/Bash/Let-s%20Echo.sh)
+- Looping and Skipping [&#128279;](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
+  [[.sh]](https://github.com/julienshim/hackerrank-playground/blob/master/Linux%20Shell/Bash/Looping%20and%20Skipping.sh)
