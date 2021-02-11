@@ -13,6 +13,8 @@ A repository of personal HackerRank solutions.
 
 ### Recommended by Email
 
+- A Personalized Echo [&#128279;](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
+  [[.sh]](https://github.com/julienshim/hackerrank-playground/blob/master/Linux%20Shell/Bash/A%20Personalized%20Echo.sh)
 - Find the Median [&#128279;](https://www.hackerrank.com/challenges/find-the-median/problem)
   [[.js]](https://github.com/julienshim/hackerrank-playground/blob/master/Algorithms/Strings/Find%20the%20Median.js)
 - Game of Thrones - I [&#128279;](https://www.hackerrank.com/challenges/game-of-thrones/problem)
