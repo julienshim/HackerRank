@@ -23,3 +23,5 @@ A repository of personal HackerRank solutions.
   [[.sh]](https://github.com/julienshim/hackerrank-playground/blob/master/Linux%20Shell/Bash/Let-s%20Echo.sh)
 - Looping and Skipping [&#128279;](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
   [[.sh]](https://github.com/julienshim/hackerrank-playground/blob/master/Linux%20Shell/Bash/Looping%20and%20Skipping.sh)
+- Looping with Numbers [&#128279;](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)
+  [[.sh]](https://github.com/julienshim/hackerrank-playground/blob/master/Linux%20Shell/Bash/Looping%20with%20Numbers.sh)
